@@ -1,8 +1,8 @@
 # ConflictTest
 
-<<<<<<< HEAD
+HEAD
 another Line
-=======
+
 First line
 Second line
 Third line
